@@ -1,2 +1,2 @@
 # Nordic-BLE-Training
-nRF5x tutorials by Embedded Centric 
+nRF5x tutorials by EmbeddedCentric.com 
